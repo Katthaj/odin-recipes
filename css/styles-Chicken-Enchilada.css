@@ -1,0 +1,32 @@
+.Titles{
+    font-size: 50px;
+    font-family: Verdana, sans-serif;
+    color: green;
+    text-align: center;
+}
+.Subtitles{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: green;
+    text-align: left;
+    font-weight: bold;
+}
+
+img{
+    height: auto;
+    width: 500px;
+    margin: auto;
+    display: block;
+}
+
+.Description{
+    font-weight: bold;
+    color: grey;
+}
+
+ol,
+ul{
+    font-family: verdana, sans-serif;
+    color: white;
+    background-color: black;
+}
